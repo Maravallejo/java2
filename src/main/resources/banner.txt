@@ -1,0 +1,10 @@
+  _____ ____
+ |_   _/ ___|
+   | || |
+   | || |___
+   |_| \____|
+
+ Version: ${application.version}
+ Spring Boot: ${spring-boot.version}
+ Java: ${java.version}
+ OS: ${os.name}
